@@ -70,12 +70,13 @@ delete .git and git remote add origin master github.com/xxxxx
 ### step 10: Complete
 
 * Build Succeeded後就可以去Open app 成功！
+* 我的Link：https://aiot0531hj.herokuapp.com/
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+### Success image
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+* 點擊SetRandom後出現的highcahrt
+![](static%5Crandom.jpg)
+
 
 
 
