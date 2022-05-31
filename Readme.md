@@ -6,7 +6,9 @@
 * 下載HeidiASQL, VS code
 * 註冊Heroku, github
 ### step 1 : Clone this github
-* 
+* git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot0531 folder
+* 把local的 \aiot0531.git 殺掉 (產生自己的git管理員) 方便建立新的git repository
+* 推送至github 建立新的 aiot0531 https://github.com/Hsuan0923/aiot_0531_L16
 ### step 2 : install some package
 
 
