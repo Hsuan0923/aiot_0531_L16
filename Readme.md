@@ -75,7 +75,7 @@ delete .git and git remote add origin master github.com/xxxxx
 ### Success image
 
 * 點擊SetRandom後出現的highcahrt
-![](static%5Crandom.jpg)
+ <img src="./static/random.jpg" height=300 /> 
 
 
 
