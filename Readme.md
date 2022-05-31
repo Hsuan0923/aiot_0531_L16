@@ -44,7 +44,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ### step 6: setting db in app.py
 
-*修改app.py裡的以下程式碼 將剛才的資訊填入相對應的內容
+* 修改app.py裡的以下程式碼 將剛才的資訊填入相對應的內容
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
