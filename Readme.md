@@ -77,6 +77,8 @@ delete .git and git remote add origin master github.com/xxxxx
 * 點擊SetRandom後出現的highcahrt
  <img src="./static/random.jpg" height=300 /> 
 
+* 點擊Call AI後出現的highcahrt
+ <img src="./static/ai.jpg" height=300 /> 
 
 
 
