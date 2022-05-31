@@ -25,6 +25,11 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
+* 進去Heroku postgredb進行調整
+* 點擊Settings -> View Credentials
+* 查看各項資訊(Host,User,Password...等)
+* 打開HeidiSQL 將相對應的資訊填入 (app.py也要填入)
+* 網路類型：PostgreSQL(TCP/IP) Library：libpq-12.dll
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -35,9 +40,11 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 5: import postgredb (in db/postgre.db)
 
+* 連接成功後 匯入postgres.sql
 
 ### step 6: setting db in app.py
 
+*修改app.py裡的以下程式碼 將剛才的資訊填入相對應的內容
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -47,6 +54,9 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 7: testing locally by running python app.py
+
+* 在終端機執行python app.py
+* 查看local端是否能跑出highchart並正常運行
 
 ### step 8: deploy to github (new public github repositoy)
 
