@@ -62,10 +62,14 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 delete .git and git remote add origin master github.com/xxxxx
 
-
 ### step 9: Heroku deploy from github
 
+* 點擊剛剛在Heroko建立好的app->deploy->connect github->aiot_0531_L16
+* enable後還要再deploy branch (可以去Logs看他deploy的狀態)
+
 ### step 10: Complete
+
+* Build Succeeded後就可以去Open app 成功！
 
 Sample link 1:
 https://awinlab-aiot.herokuapp.com/
