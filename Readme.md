@@ -1,6 +1,6 @@
 # AIoT Github
 
-## Lecture 15: IoT Flask Web (deploy to heroku)
+## Lecture 16: IoT Flask Web (deploy to heroku)
 
 ### step 1 : Clone this github
 
@@ -43,7 +43,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py
 
-### step 8: deploy to github (new private github repositoy)
+### step 8: deploy to github (new public github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
 
