@@ -1,9 +1,12 @@
 # AIoT Github
 
 ## Lecture 16: IoT Flask Web (deploy to heroku)
-
+### 目標：把flask highcharts 推播到heroku public
+### step 0：
+* 下載HeidiASQL, VS code
+* 註冊Heroku, github
 ### step 1 : Clone this github
-
+* 
 ### step 2 : install some package
 
 
